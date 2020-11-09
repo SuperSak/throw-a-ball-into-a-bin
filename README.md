@@ -1,2 +1,2 @@
-# MatterJSBoilerPlate
-MatterJSBoilerPlate
+# I am cool
+Trust me
